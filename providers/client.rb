@@ -1,6 +1,5 @@
 action :create do
   client_attrs = %w[
-    name
     address
     subscriptions
   ]
